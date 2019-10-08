@@ -2,7 +2,7 @@
   "ghrp": [
     {
       "rating": "D",
-      "class": "1",
+      "class": 1,
       "mass": 1,
       "id": "1V",
       "edID": 128833946,
@@ -21,7 +21,7 @@
     },
     {
       "rating": "E",
-      "class": "1",
+      "class": 1,
       "mass": 2,
       "id": "1W",
       "edID": 128833945,
@@ -40,7 +40,7 @@
     },
     {
       "rating": "D",
-      "class": "2",
+      "class": 2,
       "mass": 2,
       "id": "1X",
       "edID": 128833948,
@@ -59,7 +59,7 @@
     },
     {
       "rating": "E",
-      "class": "2",
+      "class": 2,
       "mass": 4,
       "id": "1Y",
       "edID": 128833947,
@@ -78,7 +78,7 @@
     },
     {
       "rating": "D",
-      "class": "3",
+      "class": 3,
       "mass": 4,
       "id": "1Z",
       "edID": 128833950,
@@ -97,7 +97,7 @@
     },
     {
       "rating": "E",
-      "class": "3",
+      "class": 3,
       "mass": 8,
       "id": "2A",
       "edID": 128833949,
@@ -116,7 +116,7 @@
     },
     {
       "rating": "D",
-      "class": "4",
+      "class": 4,
       "mass": 8,
       "edID": 128833952,
       "eddbID": 1707,
@@ -135,7 +135,7 @@
     },
     {
       "rating": "E",
-      "class": "4",
+      "class": 4,
       "mass": 16,
       "edID": 128833951,
       "eddbID": 1706,
@@ -154,7 +154,7 @@
     },
     {
       "rating": "D",
-      "class": "5",
+      "class": 5,
       "mass": 16,
       "edID": 128833954,
       "eddbID": 1709,
@@ -173,7 +173,7 @@
     },
     {
       "rating": "E",
-      "class": "5",
+      "class": 5,
       "mass": 32,
       "edID": 128833953,
       "eddbID": 1708,
