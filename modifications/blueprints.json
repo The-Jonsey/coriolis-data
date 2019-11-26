@@ -1072,7 +1072,7 @@
   "Misc_ChaffCapacity": {
     "fdname": "Misc_ChaffCapacity",
     "grades": {
-      "3": {
+      "1": {
         "components": {
           "Mechanical Scrap": 1,
           "Niobium": 1,
@@ -3104,7 +3104,7 @@
   "Misc_HeatSinkCapacity": {
     "fdname": "Misc_HeatSinkCapacity",
     "grades": {
-      "3": {
+      "1": {
         "components": {
           "Mechanical Scrap": 1,
           "Niobium": 1,
@@ -4122,7 +4122,7 @@
   "Misc_PointDefenseCapacity": {
     "fdname": "Misc_PointDefenseCapacity",
     "grades": {
-      "3": {
+      "1": {
         "components": {
           "Mechanical Scrap": 1,
           "Niobium": 1,
