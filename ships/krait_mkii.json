@@ -21,7 +21,8 @@
       "pitch": 26,
       "roll": 90,
       "yaw": 10,
-      "crew": 3
+      "crew": 3,
+      "reserveFuelCapacity": 0.63
     },
     "retailCost": 45814205,
     "bulkheads": [

@@ -20,7 +20,8 @@
       "pitch": 40,
       "roll": 80,
       "yaw": 18,
-      "crew": 2
+      "crew": 2,
+      "reserveFuelCapacity": 0.74
     },
     "retailCost": 22296860,
     "requirements": {
