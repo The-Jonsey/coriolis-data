@@ -4954,8 +4954,8 @@
       "3": {
         "components": {
           "Anomalous Bulk Scan Data": 1,
-          "Chromium": 1,
-          "Electrochemical Arrays": 1
+          "Hybrid Capacitors": 1,
+          "Selenium": 1
         },
         "features": {
           "engcap": [
@@ -4988,8 +4988,8 @@
       "4": {
         "components": {
           "Unidentified Scan Archives": 1,
-          "Selenium": 1,
-          "Polymer Capacitors": 1
+          "Electrochemical Arrays": 1,
+          "Cadmium": 1
         },
         "features": {
           "engcap": [
@@ -5022,8 +5022,8 @@
       "5": {
         "components": {
           "Classified Scan Databanks": 1,
-          "Cadmium": 1,
-          "Military Supercapacitors": 1
+          "Polymer Capacitors": 1,
+          "Tellurium": 1
         },
         "features": {
           "engcap": [
