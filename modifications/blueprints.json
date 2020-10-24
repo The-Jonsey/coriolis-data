@@ -6642,7 +6642,7 @@
     "grades": {
       "1": {
         "components": {
-          "Phosphorus": 1
+          "Mechanical Scrap": 1
         },
         "features": {
           "mass": [
@@ -6658,8 +6658,8 @@
       },
       "2": {
         "components": {
-          "Flawed Focus Crystals": 1,
-          "Phosphorus": 1
+          "Mechanical Scrap": 1,
+          "Germanium": 1
         },
         "features": {
           "mass": [
@@ -6675,9 +6675,9 @@
       },
       "3": {
         "components": {
-          "Flawed Focus Crystals": 1,
-          "Open Symmetric Keys": 1,
-          "Phosphorus": 1
+          "Mechanical Scrap": 1,
+          "Germanium": 1,
+          "Phase Alloys": 1
         },
         "features": {
           "mass": [
@@ -6693,9 +6693,9 @@
       },
       "4": {
         "components": {
-          "Atypical Encryption Archives": 1,
-          "Focus Crystals": 1,
-          "Manganese": 1
+          "Mechanical Equipment": 1,
+          "Niobium": 1,
+          "Proto Light Alloys": 1
         },
         "features": {
           "mass": [
@@ -6711,9 +6711,9 @@
       },
       "5": {
         "components": {
-          "Adaptive Encryptors Capture": 1,
-          "Arsenic": 1,
-          "Refined Focus Crystals": 1
+          "Mechanical Components": 1,
+          "Tin": 1,
+          "Proto Radiolic Alloys": 1
         },
         "features": {
           "mass": [
