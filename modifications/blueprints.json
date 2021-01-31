@@ -70,6 +70,24 @@
           ]
         },
         "uuid": "82195e56-cfe5-4996-a821-a820dcd9405d"
+      },
+      "5": {
+        "components": {
+          "Core Dynamics Composites": 1,
+          "Compound Shielding": 1,
+          "Tungsten": 1
+        },
+        "features": {
+          "integrity": [
+            2.4,
+            3.0
+          ],
+          "power": [
+            1.0,
+            1.0
+          ]
+        },
+        "uuid": "191479fe-5459-11eb-a2cb-6805caa43529"
       }
     },
     "id": 3,
@@ -2431,6 +2449,32 @@
           ]
         },
         "uuid": "aaabe016-883e-4ec6-a0f0-dd519b4f0ca5"
+      },
+      "5": {
+        "components": {
+          "Classified Scan Databanks": 1,
+          "Eccentric Hyperspace Trajectories": 1,
+          "Adaptive Encryptors Capture": 1
+        },
+        "features": {
+          "facinglimit": [
+            -0.30,
+            -0.30
+          ],
+          "mass": [
+            0.30,
+            0.30
+          ],
+          "power": [
+            0.5,
+            0.5
+          ],
+          "ranget": [
+            0.5,
+            0.6
+          ]
+        },
+        "uuid": "d62e9816-5457-11eb-a2cb-6805caa43529"
       }
     },
     "id": 29,
@@ -2511,6 +2555,24 @@
           ]
         },
         "uuid": "457e3d79-cdc8-44e6-b98c-c360821b0131"
+      },
+      "5": {
+        "components": {
+          "Core Dynamics Composites": 1,
+          "Compound Shielding": 1,
+          "Tungsten": 1
+        },
+        "features": {
+          "integrity": [
+            2.4,
+            3.0
+          ],
+          "power": [
+            1.0,
+            1.0
+          ]
+        },
+        "uuid": "91baeeeb-5459-11eb-a2cb-6805caa43529"
       }
     },
     "id": 30,
@@ -5912,6 +5974,24 @@
           ]
         },
         "uuid": "48d62ffb-b0ff-47bf-9e4a-a8a4cfbd22bc"
+      },
+      "5": {
+        "components": {
+          "Core Dynamics Composites": 1,
+          "Compound Shielding": 1,
+          "Tungsten": 1
+        },
+        "features": {
+          "integrity": [
+            2.4,
+            3.0
+          ],
+          "power": [
+            1.0,
+            1.0
+          ]
+        },
+        "uuid": "be6ba667-5458-11eb-a2cb-6805caa43529"
       }
     },
     "id": 92,
