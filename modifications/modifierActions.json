@@ -210,6 +210,7 @@
   },
   "special_high_yield_shell": {
     "rof": 0.1111111111111111,
+    "damage": -0.35,
     "damagedist": {
       "K": 0.5,
       "E": 0.5
