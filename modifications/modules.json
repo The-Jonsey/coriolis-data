@@ -418,7 +418,6 @@
       "special_thermal_vent",
       "special_weapon_damage",
       "special_weapon_efficient",
-      "special_weapon_rateoffire",
       "special_weapon_toughened",
       "special_weapon_lightweight"
     ]
@@ -6117,7 +6116,6 @@
       "special_weapon_rateoffire",
       "special_weapon_toughened",
       "special_weapon_lightweight",
-      "special_deep_cut_payload",
       "special_mass_lock"
     ]
   },
