@@ -9275,6 +9275,123 @@
     ],
     "name": "Overcharged"
   },
+  "Weapon_Overcharged": {
+    "fdname": "Weapon_Overcharged",
+    "grades": {
+      "1": {
+        "components": {
+          "Nickel": 1
+        },
+        "features": {
+          "damage": [
+            0,
+            0.3
+          ],
+          "distdraw": [
+            0.15,
+            0.15
+          ],
+          "thermload": [
+            0.03,
+            0.03
+          ]
+        },
+        "uuid": "e917ebe3-d5f1-4016-b8a9-2c759e16a7d4"
+      },
+      "2": {
+        "components": {
+          "Conductive Components": 1,
+          "Nickel": 1
+        },
+        "features": {
+          "damage": [
+            0.3,
+            0.4
+          ],
+          "distdraw": [
+            0.2,
+            0.2
+          ],
+          "thermload": [
+            0.06,
+            0.06
+          ]
+        },
+        "uuid": "f5921fc1-fb10-4d2f-8e0a-cd8d8e9e3a84"
+      },
+      "3": {
+        "components": {
+          "Conductive Components": 1,
+          "Electrochemical Arrays": 1,
+          "Nickel": 1
+        },
+        "features": {
+          "damage": [
+            0.4,
+            0.5
+          ],
+          "distdraw": [
+            0.25,
+            0.25
+          ],
+          "thermload": [
+            0.09,
+            0.09
+          ]
+        },
+        "uuid": "4389883f-c2b3-4487-9b1a-b668a761057a"
+      },
+      "4": {
+        "components": {
+          "Conductive Ceramics": 1,
+          "Polymer Capacitors": 1,
+          "Zinc": 1
+        },
+        "features": {
+          "damage": [
+            0.5,
+            0.6
+          ],
+          "distdraw": [
+            0.3,
+            0.3
+          ],
+          "thermload": [
+            0.12,
+            0.12
+          ]
+        },
+        "uuid": "25ec26dd-63b8-4e83-9a6e-86e5b80c4771"
+      },
+      "5": {
+        "components": {
+          "Conductive Polymers": 1,
+          "Modified Embedded Firmware": 1,
+          "Zirconium": 1
+        },
+        "features": {
+          "damage": [
+            0.6,
+            0.7
+          ],
+          "distdraw": [
+            0.35,
+            0.35
+          ],
+          "thermload": [
+            0.15,
+            0.15
+          ]
+        },
+        "uuid": "4dcf6bdc-bcff-448a-92a0-7612de548db7"
+      }
+    },
+    "id": 103,
+    "modulename": [
+      "Weapon"
+    ],
+    "name": "Overcharged"
+  },
   "Weapon_RapidFire": {
     "fdname": "Weapon_RapidFire",
     "grades": {
