@@ -1,0 +1,28 @@
+{
+  "exws": [
+    {
+      "class": 3,
+      "cost": 2000000,
+      "edID": 128793115,
+      "eddbID": 1616,
+      "grp": "exws",
+      "id": "ff",
+      "mass": 8,
+      "rating": "F",
+      "power": 1.5,
+      "weaponssupported": 1
+    },
+    {
+      "class": 5,
+      "cost": 4000000,
+      "edID": 128793115,
+      "eddbID": 1616,
+      "grp": "exws",
+      "id": "fg",
+      "mass": 20,
+      "rating": "F",
+      "power": 3,
+      "weaponssupported": 2
+    }
+  ]
+}

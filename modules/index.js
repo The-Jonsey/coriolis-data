@@ -82,5 +82,6 @@ module.exports = {
     ghrp: require('./internal/guardian_hull_reinforcement_package').ghrp,
     gmrp: require('./internal/guardian_module_reinforcement_package').gmrp,
     sua: require('./internal/supercruise_assist').sua,
+    exws: require('./internal/experimental_weapon_stabiliser.json').exws
   }
 }
